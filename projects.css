@@ -45,7 +45,6 @@ ul{
 
 .menu ul {
     margin-left: 5vw;
-	margin-right: -5vw;
 }
 
 .menu ul li{
@@ -72,7 +71,7 @@ ul{
 
 .header .contact-info{
     color: #fff;
-    padding-left: 20%;
+    padding-left: 15%;
 }
 
 .header .contact-info ul{
