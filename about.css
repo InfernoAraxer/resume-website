@@ -44,10 +44,6 @@ ul{
 	margin-right: 5vw;
 }
 
-.menu ul {
-    margin-left: 5vw;
-}
-
 .menu ul li{
     display: inline-block;
 	padding: 5px;
@@ -72,7 +68,12 @@ ul{
 
 .header .contact-info{
     color: #fff;
-    padding-left: 15%;
+    margin-left: auto;
+	padding-right: 2%;
+}
+
+.menu {
+    margin-right: auto;
 }
 
 .header .contact-info ul{
@@ -106,10 +107,10 @@ ul{
 }
 
 .title hr {
-	margin-left: 5%;
-	width: 90%;
+	margin-left: 2.5%;
+	width: 95%;
 	border: none;
-  	height: 3px;
+  	height: 5px;
   	/* Set the hr color */
   	color: #000;  /* old IE */
   	background-color: #000;

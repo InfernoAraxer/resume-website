@@ -34,7 +34,6 @@ ul{
     padding-top: 20px;
 }
 
-
 .logo a{
     text-decoration: none;
     color: #fff;
@@ -44,16 +43,11 @@ ul{
 	margin-right: 5vw;
 }
 
-.menu ul {
-    margin-left: 5vw;
-}
-
 .menu ul li{
     display: inline-block;
 	padding: 5px;
     cursor: pointer;
     align-items: center;
-    
 }
 
 .menu ul li a{
@@ -72,15 +66,17 @@ ul{
 
 .header .contact-info{
     color: #fff;
-    padding-left: 15%;
+    margin-left: auto;
+	padding-right: 2%;
+}
+
+.menu {
+    margin-right: auto;
 }
 
 .header .contact-info ul{
     margin-left: 100px;
-}
-
-.header .contact-info ul li{
-    display: inline-block;
+	margin: auto;
 }
 
 .header .contact-info ul li a{
@@ -105,10 +101,10 @@ ul{
 }
 
 .title hr {
-	margin-left: 5%;
-	width: 90%;
+	margin-left: 2.5%;
+	width: 95%;
 	border: none;
-  	height: 3px;
+  	height: 5px;
   	/* Set the hr color */
   	color: #000;  /* old IE */
   	background-color: #000;
@@ -136,6 +132,12 @@ ul{
 .content h4 span{
 	float: right;
 	margin-right: 6%;
+	font-weight: 600;
+}
+
+.content p span{
+	float: right;
+	margin-right: -21.75%;
 	font-weight: 600;
 }
 
