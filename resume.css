@@ -18,7 +18,7 @@ ul{
 }
 
 body {
-	margin-bottom: 10%;
+	margin-bottom: 5%;
 }
 
 .header{
@@ -155,6 +155,10 @@ body {
 
 .extra {
 	font-weight: 450;
+}
+
+.second-award {
+	margin-top: 10px;
 }
 
 .content h5 {
