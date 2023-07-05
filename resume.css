@@ -135,12 +135,6 @@ ul{
 	font-weight: 600;
 }
 
-.content p span{
-	float: right;
-	margin-right: -21.75%;
-	font-weight: 600;
-}
-
 .content h2 {
 	margin-top: 4px;
 	margin-bottom: 4px;
@@ -155,7 +149,15 @@ ul{
 	margin-bottom: 5px;
 }
 
+.extra {
+	font-weight: 450;
+}
+
 .content h5 {
+	margin-bottom: 7px;
+}
+
+.content p {
 	margin-bottom: 7px;
 }
 
