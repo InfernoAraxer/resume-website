@@ -17,6 +17,10 @@ ul{
     list-style: none;
 }
 
+body {
+	margin-bottom: 10%;
+}
+
 .header{
     position: relative;
     width: 100%;
